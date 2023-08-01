@@ -12,3 +12,36 @@ body {
     color: #F2CA99;
 }
 
+
+
+.py-5{
+    height: 25rem;
+}
+
+.body-color{
+    color: #F2CA99;
+}
+
+.lead {
+    color: #F2CA99;
+}
+
+.rounded {
+    height: auto;
+    width: 30rem;
+}
+
+.bg-black {
+    margin-top: 7rem;
+}
+
+.Projects {
+    display: flex;
+    margin-top: 10rem;
+}
+
+.resize-img {
+    height: auto;
+    width: 25rem;
+    margin: 0;
+}
