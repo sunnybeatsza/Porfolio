@@ -35,13 +35,20 @@ body {
     margin-top: 7rem;
 }
 
-.Projects {
-    display: flex;
-    margin-top: 10rem;
-}
-
 .resize-img {
     height: auto;
-    width: 25rem;
+    width: 20rem;
     margin: 0;
+}
+
+.section-container {
+    margin-top: 10rem;
+    color: #F2CA99;
+}
+
+.footer-container {
+    margin-top: 7rem;
+    color: #F2CA99;
+    border: 1px solid aqua;
+    padding: 3rem;
 }
